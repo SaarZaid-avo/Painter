@@ -1,0 +1,10 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#game-canvas {
+  border: 1px solid black;
+  background-color: #080726;
+}
